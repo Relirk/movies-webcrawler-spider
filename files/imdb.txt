@@ -1,0 +1,897 @@
+{
+          title: "Coringa",
+          year:"(2019)",
+          rating: "8.8",
+          rating_description: "8.8 based on 398,587 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7286456/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_1"
+        },{
+          title: "O Exterminador do Futuro: Destino Sombrio",
+          year:"(2019)(
+
+6)",
+          rating: "6.5",
+          rating_description: "6.5 based on 8,380 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6450804/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_2"
+        },{
+          title: "Star Wars: A Ascensão Skywalker",
+          year:"(2019)(
+
+24)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMDljNTQ5ODItZmQwMy00M2ExLTljOTQtZTVjNGE2NTg0NGIxXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt2527338/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_3"
+        },{
+          title: "Malévola: Dona do Mal",
+          year:"(2019)(
+
+1)",
+          rating: "7.0",
+          rating_description: "7.0 based on 16,071 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZjJiYTExOTAtNWU0Yi00NzJjLTkwOTgtOTU2NWM1ZjJmYWVhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt4777008/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_4"
+        },{
+          title: "A Lavanderia",
+          year:"(2019)(
+
+28)",
+          rating: "6.3",
+          rating_description: "6.3 based on 13,398 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNDhiZTA1MzItMWNmZC00YWZlLWI5NTYtYzI5MzMxNGJkZDcxXkEyXkFqcGdeQXVyNTE4NTE0NjU@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt5865326/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_5"
+        },{
+          title: "Zumbilândia: Atire Duas Vezes",
+          year:"(2019)(
+
+3)",
+          rating: "7.3",
+          rating_description: "7.3 based on 17,959 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYjcwNjZhNGYtOGNlNy00NGI3LTlmODMtMGZlMjA3YjA0Njg0XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1560220/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_6"
+        },{
+          title: "Eli",
+          year:"(2019)(
+
+35)",
+          rating: "5.8",
+          rating_description: "5.8 based on 11,549 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYWQwYjNiM2ItMTcyZS00ZTNmLTgwNzQtMTgwNzU5ODgxMTc3XkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt5294518/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_7"
+        },{
+          title: "El Camino: A Breaking Bad Film",
+          year:"(2019)(
+
+6)",
+          rating: "7.5",
+          rating_description: "7.5 based on 114,593 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNjk4MzVlM2UtZGM0ZC00M2M1LThkMWEtZjUyN2U2ZTc0NmM5XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY67_CR4,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt9243946/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_8"
+        },{
+          title: "O Farol",
+          year:"(2019)(
+
+11)",
+          rating: "8.4",
+          rating_description: "8.4 based on 7,131 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZmE0MGJhNmYtOWNjYi00Njc5LWE2YjEtMWMxZTVmODUwMmMxXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7984734/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_9"
+        },{
+          title: "O Rei Leão",
+          year:"(2019)(
+
+3)",
+          rating: "7.0",
+          rating_description: "7.0 based on 124,766 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6105098/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_10"
+        },{
+          title: "Projeto Gemini",
+          year:"(2019)(
+
+5)",
+          rating: "5.7",
+          rating_description: "5.7 based on 16,681 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNjI5OTNkMzUtZDYzYy00NWQ5LTg4YzYtZmZjZDI0MGQzNGY2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1025100/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_11"
+        },{
+          title: "Fratura",
+          year:"(2019)(
+
+8)",
+          rating: "6.3",
+          rating_description: "6.3 based on 22,699 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZTE0MWE4NzMtMzc4Ny00NWE4LTg2OTQtZmIyNDdhZjdiZmJhXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt4332232/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_12"
+        },{
+          title: "O Irlandês",
+          year:"(2019)(
+
+4)",
+          rating: "8.6",
+          rating_description: "8.6 based on 3,636 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMGUyM2ZiZmUtMWY0OC00NTQ4LThkOGUtNjY2NjkzMDJiMWMwXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1302006/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_13"
+        },{
+          title: "Abracadabra",
+          year:"(1993)(
+
+14)",
+          rating: "6.8",
+          rating_description: "6.8 based on 85,241 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMmQyYmY5ZTMtM2JkNi00NmM2LWE3ZmEtYWYzZmRkZDM0ZTdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0107120/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_14"
+        },{
+          title: "Parasita",
+          year:"(2019)(
+
+6)",
+          rating: "8.5",
+          rating_description: "8.5 based on 52,644 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOWVmODY4MjYtZGViYS00MzJjLWI3NmItMGFmMDRkMzI1OTU3XkEyXkFqcGdeQXVyNTQ0NTUxOTA@._V1_UY67_CR2,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6751668/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_15"
+        },{
+          title: "Contato Visceral",
+          year:"(2019)(
+
+48)",
+          rating: "4.1",
+          rating_description: "4.1 based on 5,844 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOThiMzJkOTctMzhiZi00MjFlLWFiODMtOGFlNzgwNWI1ZGI5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt5913798/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_16"
+        },{
+          title: "Bloodshot",
+          year:"(2020)(
+
+1,225)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMWNkNzhmYzUtZGYwMS00YTY5LWI0MmYtOTA5NDJmNGMxNjYzXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1634106/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_17"
+        },{
+          title: "It: Capítulo Dois",
+          year:"(2019)(
+
+8)",
+          rating: "6.8",
+          rating_description: "6.8 based on 105,633 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYTJlNjlkZTktNjEwOS00NzI5LTlkNDAtZmEwZDFmYmM2MjU2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7349950/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_18"
+        },{
+          title: "Jojo Rabbit",
+          year:"(2019)(
+
+10)",
+          rating: "7.6",
+          rating_description: "7.6 based on 3,010 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZjU0Yzk2MzEtMjAzYy00MzY0LTg2YmItM2RkNzdkY2ZhN2JkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt2584384/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_19"
+        },{
+          title: "Doutor Sono",
+          year:"(2019)(
+
+15)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYmY3NGJlYTItYmQ4OS00ZTEwLWIzODItMjMzNWU2MDE0NjZhXkEyXkFqcGdeQXVyMzQzMDA3MTI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt5606664/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_20"
+        },{
+          title: "As Golpistas",
+          year:"(2019)(
+
+6)",
+          rating: "6.6",
+          rating_description: "6.6 based on 17,706 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt5503686/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_21"
+        },{
+          title: "Midsommar: O Mal Não Espera a Noite",
+          year:"(2019)(
+
+5)",
+          rating: "7.3",
+          rating_description: "7.3 based on 69,928 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt8772262/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_22"
+        },{
+          title: "Watchmen: O Filme",
+          year:"(2009)(
+
+94)",
+          rating: "7.6",
+          rating_description: "7.6 based on 463,897 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BY2IzNGNiODgtOWYzOS00OTI0LTgxZTUtOTA5OTQ5YmI3NGUzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0409459/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_23"
+        },{
+          title: "Era Uma Vez em... Hollywood",
+          year:"(2019)(
+
+1)",
+          rating: "8.0",
+          rating_description: "8.0 based on 220,776 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOTg4ZTNkZmUtMzNlZi00YmFjLTk1MmUtNWQwNTM0YjcyNTNkXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7131622/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_24"
+        },{
+          title: "A Família Addams",
+          year:"(2019)(
+
+11)",
+          rating: "5.9",
+          rating_description: "5.9 based on 3,774 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BODBjOTAzZmMtNGJkOC00M2M3LWI1MTctZjZlMzdiODBkMzc0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1620981/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_25"
+        },{
+          title: "Housefull 4",
+          year:"(2019)(
+
+241)",
+          rating: "3.3",
+          rating_description: "3.3 based on 3,104 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYjIyODM0OTAtMmYwNS00YTA1LTkwMjctYzcwZWFhZjcyMWM2XkEyXkFqcGdeQXVyOTAzMTc2MjA@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7721946/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_26"
+        },{
+          title: "Antlers",
+          year:"(2020)(
+
+3,022)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMWZkYTlmOTgtMmU2NS00NzQzLWE4MGEtZGY1MTUwZjA2ODBlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7740510/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_27"
+        },{
+          title: "Batman: O Cavaleiro das Trevas",
+          year:"(2008)(
+
+15)",
+          rating: "9.0",
+          rating_description: "9.0 based on 2,125,661 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0468569/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_28"
+        },{
+          title: "Meu Nome é Dolemite",
+          year:"(2019)(
+
+216)",
+          rating: "7.5",
+          rating_description: "7.5 based on 7,573 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt8526872/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_29"
+        },{
+          title: "O Rei",
+          year:"(2019)(
+
+81)",
+          rating: "7.0",
+          rating_description: "7.0 based on 826 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOGZhMWFhMTAtNGM3Ni00MTdhLTg3NmMtMDViYTc5ODVkZWVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7984766/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_30"
+        },{
+          title: "As Panteras",
+          year:"(2019)(
+
+8)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZDAzOTYxY2YtNzBmNi00YmE5LTk0NTktN2YwNTNiNGZjNWIzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt5033998/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_31"
+        },{
+          title: "Countdown",
+          year:"(2019)(
+
+61)",
+          rating: "5.4",
+          rating_description: "5.4 based on 1,328 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYjcxMjM4MjgtNTEwMi00ZmE2LTlhMWUtMzQ4OWFmYmQwM2NlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt10039344/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_32"
+        },{
+          title: "Toy Story 4",
+          year:"(2019)(
+
+14)",
+          rating: "8.0",
+          rating_description: "8.0 based on 122,253 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMTYzMDM4NzkxOV5BMl5BanBnXkFtZTgwNzM1Mzg2NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1979376/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_33"
+        },{
+          title: "Zumbilândia",
+          year:"(2009)(
+
+4)",
+          rating: "7.6",
+          rating_description: "7.6 based on 477,608 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMTU5MDg0NTQ1N15BMl5BanBnXkFtZTcwMjA4Mjg3Mg@@._V1_UY67_CR1,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1156398/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_34"
+        },{
+          title: "Midway - Batalha em Alto Mar",
+          year:"(2019)(
+
+8)",
+          rating: "6.9",
+          rating_description: "6.9 based on 34 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMGVkNGMyMGEtMDNmOC00ZGYyLWEzOTItODdjMzRlZTk4MzUwXkEyXkFqcGdeQXVyODM2Njg2OTg@._V1_UY67_CR4,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6924650/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_35"
+        },{
+          title: "Vingadores: Ultimato",
+          year:"(2019)(
+
+4)",
+          rating: "8.5",
+          rating_description: "8.5 based on 590,691 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt4154796/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_36"
+        },{
+          title: "Histórias Assustadoras para Contar no Escuro",
+          year:"(2019)(
+
+16)",
+          rating: "6.3",
+          rating_description: "6.3 based on 26,438 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNjNiM2E3NDItNGU5NS00N2UwLTk2YWItZWRmMGFlNjJhYzE3XkEyXkFqcGdeQXVyOTQ5MTIwMjM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt3387520/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_37"
+        },{
+          title: "Malévola",
+          year:"(2014)(
+
+7)",
+          rating: "7.0",
+          rating_description: "7.0 based on 316,638 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjAwMzAzMzExOF5BMl5BanBnXkFtZTgwOTcwMDA5MTE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1587310/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_38"
+        },{
+          title: "A Batalha das Correntes",
+          year:"(2017)(
+
+53)",
+          rating: "6.4",
+          rating_description: "6.4 based on 4,699 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYWIxOWU4OGUtMTY1Ny00YmY3LWFhOTgtNzk3NmExYjUwMTFmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt2140507/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_39"
+        },{
+          title: "Velozes & Furiosos: Hobbs & Shaw",
+          year:"(2019)(
+
+1)",
+          rating: "6.6",
+          rating_description: "6.6 based on 96,791 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOTIzYmUyMmEtMWQzNC00YzExLTk3MzYtZTUzYjMyMmRiYzIwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6806448/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_40"
+        },{
+          title: "After",
+          year:"(2019)(
+
+10)",
+          rating: "5.4",
+          rating_description: "5.4 based on 19,991 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOGUwMjk3YzktNDI0Yy00MzFiLWFjNmEtYTA2ODVjMzNhODhjXkEyXkFqcGdeQXVyOTQ1MDI4MzY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt4126476/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_41"
+        },{
+          title: "O Iluminado",
+          year:"(1980)(
+
+32)",
+          rating: "8.4",
+          rating_description: "8.4 based on 806,968 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0081505/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_42"
+        },{
+          title: "Campo do Medo",
+          year:"(2019)(
+
+21)",
+          rating: "5.5",
+          rating_description: "5.5 based on 23,906 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZjA2ZWU3N2MtY2JkYy00YjFjLWEyZWQtMjQ0MTU0NDk1ZTZmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt4687108/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_43"
+        },{
+          title: "Os 3 Infernais",
+          year:"(2019)(
+
+7)",
+          rating: "5.7",
+          rating_description: "5.7 based on 4,939 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNGZlNmYwZWYtOWU1My00Mzg3LThhNDMtMDQ0ZjAzNWNiNDZiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt8134742/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_44"
+        },{
+          title: "Downton Abbey",
+          year:"(2019)(
+
+9)",
+          rating: "7.7",
+          rating_description: "7.7 based on 14,968 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMmQxNGRkMjYtZTAyMy00MDUyLThiNmYtODI1NTkyNmI0ZTNlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6398184/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_45"
+        },{
+          title: "Ad Astra: Rumo às Estrelas",
+          year:"(2019)(
+
+22)",
+          rating: "7.0",
+          rating_description: "7.0 based on 65,128 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZTllZTdlOGEtZTBmMi00MGQ5LWFjN2MtOGEyZTliNGY1MzFiXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt2935510/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_46"
+        },{
+          title: "Homem-Aranha: Longe de Casa",
+          year:"(2019)(
+
+9)",
+          rating: "7.6",
+          rating_description: "7.6 based on 222,694 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6320628/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_47"
+        },{
+          title: "Vidro",
+          year:"(2019)(
+
+121)",
+          rating: "6.7",
+          rating_description: "6.7 based on 164,521 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMTY1OTA2MjI5OV5BMl5BanBnXkFtZTgwNzkxMjU4NjM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6823368/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_48"
+        },{
+          title: "Jay and Silent Bob Reboot",
+          year:"(2019)(
+
+33)",
+          rating: "7.5",
+          rating_description: "7.5 based on 1,046 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMDBiN2Y1NTMtYzc1ZS00ODlhLWI3NGYtY2M5ODA1ZmY4ZTdjXkEyXkFqcGdeQXVyMzQwMTY2Nzk@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6521876/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_49"
+        },{
+          title: "Rainhas do Crime",
+          year:"(2019)(
+
+1,840)",
+          rating: "5.1",
+          rating_description: "5.1 based on 4,516 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZGEwMWJlNzMtMjQ4YS00YjI4LTkwZTYtMGFiZTY5YmE2ZTIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt5822564/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_50"
+        },{
+          title: "Ford vs Ferrari",
+          year:"(2019)(
+
+14)",
+          rating: "7.3",
+          rating_description: "7.3 based on 1,073 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1950186/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_51"
+        },{
+          title: "Aladdin",
+          year:"(2019)(
+
+5)",
+          rating: "7.1",
+          rating_description: "7.1 based on 152,065 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjQ2ODIyMjY4MF5BMl5BanBnXkFtZTgwNzY4ODI2NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6139732/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_52"
+        },{
+          title: "Black and Blue",
+          year:"(2019)(
+
+180)",
+          rating: "5.3",
+          rating_description: "5.3 based on 957 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMmZhZmQ1YjYtMmZkZC00ZTIxLTg5YTctMDczZGJmZTllYjBkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7390646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_53"
+        },{
+          title: "It: A Coisa",
+          year:"(2017)(
+
+5)",
+          rating: "7.3",
+          rating_description: "7.3 based on 403,677 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZDVkZmI0YzAtNzdjYi00ZjhhLWE1ODEtMWMzMWMzNDA0NmQ4XkEyXkFqcGdeQXVyNzYzODM3Mzg@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1396484/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_54"
+        },{
+          title: "Brooklyn: Sem Pai Nem Mãe",
+          year:"(2019)(
+
+23)",
+          rating: "7.4",
+          rating_description: "7.4 based on 1,344 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNzQ0Mjk1YjItNWI1Ny00NWE2LWFlYTAtYjViY2YzMTVlOGVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0385887/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_55"
+        },{
+          title: "The Batman",
+          year:"(2021)(
+
+30)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/67x98/film-2500266839._CB470041825_.png",
+          poster_link: "https://www.imdb.com/title/tt1877830/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_56"
+        },{
+          title: "Yesterday",
+          year:"(2019)(
+
+3)",
+          rating: "6.9",
+          rating_description: "6.9 based on 56,568 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjQ0NTI0NjkyN15BMl5BanBnXkFtZTgwNzY0MTE0NzM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt8079248/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_57"
+        },{
+          title: "War",
+          year:"(2019)(
+
+40)",
+          rating: "6.8",
+          rating_description: "6.8 based on 9,417 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNTlmNDMzOWQtYzg4Ny00OWQ0LWFhN2MtNmQ2MDczZGZhNTU5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY67_CR2,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7430722/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_58"
+        },{
+          title: "Aves de Rapina: Arlequina e sua Emancipação Fantabulosa",
+          year:"(2020)(
+
+25)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZjJmYmFmZGQtYWYzYS00N2UzLTkzYjktYmNkYzQ0MTJlN2M4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7713068/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_59"
+        },{
+          title: "Frozen 2",
+          year:"(2019)(
+
+20)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjA0YjYyZGMtN2U0Ni00YmY4LWJkZTItYTMyMjY3NGYyMTJkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt4520988/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_60"
+        },{
+          title: "Esquadrão Suicida",
+          year:"(2016)",
+          rating: "6.0",
+          rating_description: "6.0 based on 552,047 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjM1OTMxNzUyM15BMl5BanBnXkFtZTgwNjYzMTIzOTE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1386697/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_61"
+        },{
+          title: "Uma segunda chance para amar",
+          year:"(2019)(
+
+29)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNTQ4ZmY0NjgtYzVhNy00NzhiLTk3YTYtNzM1MTdjM2VhZDA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt8623904/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_62"
+        },{
+          title: "Sombra Lunar",
+          year:"(2019)(
+
+19)",
+          rating: "6.2",
+          rating_description: "6.2 based on 20,628 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BN2I1MGQ2ZjMtMjc1My00YzU1LThjNzktNzJlMWRkMTc0NjZhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt8110640/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_63"
+        },{
+          title: "Halloween Kills",
+          year:"(2020)(
+
+43)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNzZhY2Q4OTAtZDdlMi00OTljLWFlNjItMmViY2ZmZWRkZjdiXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt10665338/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_64"
+        },{
+          title: "Diga Quem Sou",
+          year:"(2019)(
+
+787)",
+          rating: "7.8",
+          rating_description: "7.8 based on 2,136 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMTgzZTZjZjMtM2VkMC00M2I1LWE4ZjYtZDRjMzc3NzJkODk1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt10915286/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_65"
+        },{
+          title: "Venom",
+          year:"(2018)(
+
+124)",
+          rating: "6.7",
+          rating_description: "6.7 based on 309,676 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNzAwNzUzNjY4MV5BMl5BanBnXkFtZTgwMTQ5MzM0NjM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1270797/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_66"
+        },{
+          title: "Entre Facas e Segredos",
+          year:"(2019)(
+
+8)",
+          rating: "7.1",
+          rating_description: "7.1 based on 625 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMGUwZjliMTAtNzAxZi00MWNiLWE2NzgtZGUxMGQxZjhhNDRiXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt8946378/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_67"
+        },{
+          title: "Predadores Assassinos",
+          year:"(2019)(
+
+12)",
+          rating: "6.2",
+          rating_description: "6.2 based on 32,524 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZGE4N2YzNzEtNTdmYy00ZjhkLTgyYWQtOGM4OTQ0ZGEzZGU5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt8364368/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_68"
+        },{
+          title: "Rambo: Até o Fim",
+          year:"(2019)(
+
+23)",
+          rating: "6.7",
+          rating_description: "6.7 based on 23,198 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNTAxZWM2OTgtOTQzOC00ZTI5LTgyYjktZTRhYWM4YWQxNWI0XkEyXkFqcGdeQXVyMjMwNDgzNjc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1206885/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_69"
+        },{
+          title: "Stuber",
+          year:"(2019)(
+
+13)",
+          rating: "6.2",
+          rating_description: "6.2 based on 19,244 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOGE1ZjFhYzAtYWM4ZC00NGI1LWFmYzMtZWRhZDhjMjE4YzBjXkEyXkFqcGdeQXVyODQzNTE3ODc@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7734218/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_70"
+        },{
+          title: "Aquaman",
+          year:"(2018)(
+
+5)",
+          rating: "7.0",
+          rating_description: "7.0 based on 307,283 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOTk5ODg0OTU5M15BMl5BanBnXkFtZTgwMDQ3MDY3NjM@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1477834/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_71"
+        },{
+          title: "John Wick 3: Parabellum",
+          year:"(2019)(
+
+12)",
+          rating: "7.6",
+          rating_description: "7.6 based on 186,975 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMDg2YzI0ODctYjliMy00NTU0LTkxODYtYTNkNjQwMzVmOTcxXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6146586/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_72"
+        },{
+          title: "O Exterminador do Futuro 2: O Julgamento Final",
+          year:"(1991)(
+
+60)",
+          rating: "8.5",
+          rating_description: "8.5 based on 929,824 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0103064/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_73"
+        },{
+          title: "Viúva Negra",
+          year:"(2020)(
+
+7)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYTU4NmRhNTctMjI2ZS00ZTUyLWI1ZjEtZWU1ODAxMjM5MzlmXkEyXkFqcGdeQXVyNDQxNjcxNQ@@._V1_UY67_CR4,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt3480822/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_74"
+        },{
+          title: "Sem Tempo Para Morrer",
+          year:"(2020)(
+
+5)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNTkyZWFjY2YtMTg1ZC00YThjLWE4YTEtZjFjOTJiMTRlYjg3XkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt2382320/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_75"
+        },{
+          title: "A Família Addams",
+          year:"(1991)(
+
+25)",
+          rating: "6.9",
+          rating_description: "6.9 based on 118,949 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BODc1NmY0MDUtNjUzNS00ODdhLWJlN2ItMTgwZjczZjI0MDkyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY67_CR3,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0101272/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_76"
+        },{
+          title: "Rocketman",
+          year:"(2019)(
+
+14)",
+          rating: "7.4",
+          rating_description: "7.4 based on 75,592 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYTJmMzc0YTctYmQzOS00YWJjLTgzMmEtYjE1NzA1N2QyYzE3XkEyXkFqcGdeQXVyNjg3MDMxNzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt2066051/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_77"
+        },{
+          title: "Judy",
+          year:"(2019)(
+
+30)",
+          rating: "7.2",
+          rating_description: "7.2 based on 5,241 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYmE0OTE5NWItMGYyZi00MzUxLWFjN2QtYzBkZGRjZGVmMGFmXkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7549996/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_78"
+        },{
+          title: "O Exterminador do Futuro",
+          year:"(1984)(
+
+46)",
+          rating: "8.0",
+          rating_description: "8.0 based on 746,619 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0088247/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_79"
+        },{
+          title: "Star Wars: Os Últimos Jedi",
+          year:"(2017)(
+
+174)",
+          rating: "7.1",
+          rating_description: "7.1 based on 480,354 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjQ1MzcxNjg4N15BMl5BanBnXkFtZTgwNzgwMjY4MzI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt2527336/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_80"
+        },{
+          title: "After We Collided",
+          year:"(
+
+31)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZDI1ZDg2NmYtMmZhZi00YzYxLWE1MTUtMTJlMDk4YjcwMWU2XkEyXkFqcGdeQXVyMjE2MTEwNDA@._V1_UY67_CR4,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt10362466/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_81"
+        },{
+          title: "O Escândalo",
+          year:"(2019)(
+
+43)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZjlhOWE3YjktY2MzOC00ZmQ1LWIwNjgtZmVhZmFjZGExMzgyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6394270/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_82"
+        },{
+          title: "Um Sonho de Liberdade",
+          year:"(1994)(
+
+28)",
+          rating: "9.3",
+          rating_description: "9.3 based on 2,153,155 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0111161/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_83"
+        },{
+          title: "Halloween: A Noite do Terror",
+          year:"(1978)(
+
+35)",
+          rating: "7.8",
+          rating_description: "7.8 based on 211,519 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNzk1OGU2NmMtNTdhZC00NjdlLWE5YTMtZTQ0MGExZTQzOGQyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0077651/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_84"
+        },{
+          title: "Gladiador",
+          year:"(2000)(
+
+16)",
+          rating: "8.5",
+          rating_description: "8.5 based on 1,243,067 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0172495/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_85"
+        },{
+          title: "Halloween",
+          year:"(2018)(
+
+41)",
+          rating: "6.6",
+          rating_description: "6.6 based on 99,402 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMmMzNjJhYjUtNzFkZi00MWQ4LWJiMDEtYWM0NTAzNGZjMTI3XkEyXkFqcGdeQXVyOTE2OTMwNDk@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1502407/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_86"
+        },{
+          title: "Os Fantasmas se Divertem",
+          year:"(1988)(
+
+2)",
+          rating: "7.5",
+          rating_description: "7.5 based on 238,098 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BZDdmNjBlYTctNWU0MC00ODQxLWEzNDQtZGY1NmRhYjNmNDczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0094721/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_87"
+        },{
+          title: "X-Men: Fênix Negra",
+          year:"(2019)(
+
+16)",
+          rating: "5.8",
+          rating_description: "5.8 based on 105,966 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjAwNDgxNTI0M15BMl5BanBnXkFtZTgwNTY4MDI1NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6565702/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_88"
+        },{
+          title: "Rattlesnake",
+          year:"(2019)(
+
+1,657)",
+          rating: "4.6",
+          rating_description: "4.6 based on 2,247 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjlhZTVmMzktMmQzMy00MzQ2LWJkNzQtYTdjMjZjZmY0NjQ5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt9257484/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_89"
+        },{
+          title: "The Voyage of Doctor Dolittle",
+          year:"(2020)(
+
+78)",
+          rating: "",
+          rating_description: "undefined",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BNDI3ZjcxZmQtZTVlZC00MjU1LThkM2EtZGE4YmJhMTFiMjViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt6673612/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_90"
+        },{
+          title: "Corra!",
+          year:"(2017)(
+
+91)",
+          rating: "7.7",
+          rating_description: "7.7 based on 426,176 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt5052448/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_91"
+        },{
+          title: "O Exterminador do Futuro: Gênesis",
+          year:"(2015)(
+
+106)",
+          rating: "6.4",
+          rating_description: "6.4 based on 240,464 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjM1NTc0NzE4OF5BMl5BanBnXkFtZTgwNDkyNjQ1NTE@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1340138/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_92"
+        },{
+          title: "Taxi Driver: Motorista de Táxi",
+          year:"(1976)(
+
+35)",
+          rating: "8.3",
+          rating_description: "8.3 based on 658,389 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0075314/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_93"
+        },{
+          title: "Ela",
+          year:"(2013)(
+
+32)",
+          rating: "8.0",
+          rating_description: "8.0 based on 485,150 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1798709/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_94"
+        },{
+          title: "Ready or Not",
+          year:"(2019)(
+
+13)",
+          rating: "7.1",
+          rating_description: "7.1 based on 19,107 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UX45_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7798634/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_95"
+        },{
+          title: "A Bruxa",
+          year:"(2015)(
+
+2)",
+          rating: "6.8",
+          rating_description: "6.8 based on 164,784 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt4263482/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_96"
+        },{
+          title: "MIB: Homens de Preto - Internacional",
+          year:"(2019)(
+
+7)",
+          rating: "5.6",
+          rating_description: "5.6 based on 70,737 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMDZkODI2ZGItYTY5Yi00MTA4LWExY2ItM2ZmNjczYjM0NDg1XkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt2283336/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_97"
+        },{
+          title: "Batman: O Cavaleiro das Trevas Ressurge",
+          year:"(2012)(
+
+27)",
+          rating: "8.4",
+          rating_description: "8.4 based on 1,417,607 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt1345836/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_98"
+        },{
+          title: "Hereditário",
+          year:"(2018)(
+
+3)",
+          rating: "7.3",
+          rating_description: "7.3 based on 177,856 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BOTU5MDg3OGItZWQ1Ny00ZGVmLTg2YTUtMzBkYzQ1YWIwZjlhXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_UY67_CR0,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt7784604/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_99"
+        },{
+          title: "O Poderoso Chefão",
+          year:"(1972)(
+
+15)",
+          rating: "9.2",
+          rating_description: "9.2 based on 1,477,545 user ratings",
+          poster_img: "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY67_CR1,0,45,67_AL_.jpg",
+          poster_link: "https://www.imdb.com/title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=ea4e08e1-c8a3-47b5-ac3a-75026647c16e&pf_rd_r=XCR8AZ0N9FN7AS9FHDYB&pf_rd_s=center-1&pf_rd_t=15506&pf_rd_i=moviemeter&ref_=chtmvm_tt_100"
+        }
