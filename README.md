@@ -4,7 +4,7 @@
 
 ### 
 
-![Screenshot 1](.assets/imdb-site.png)
+![IMDB](./assets/imdb-site.png)
 
 ### Tools used:
 - [NodeJS](https://nodejs.org/en/)
@@ -23,4 +23,4 @@ yarn start
 
 ### How it works?
 Once the initialization command is executed, all the output will be in the imdb.txt file in .json format.
-![Screenshot 1](./assets/imdb-txt-example.png)
+![Screenshot](./assets/imdb-txt-example.png)
