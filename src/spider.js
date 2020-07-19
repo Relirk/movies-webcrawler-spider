@@ -2,16 +2,13 @@ import axios from "axios";
 import IMDbController from "./controllers/IMDbController";
 
 axios
-  .all([
-    axios.get("http://www.imdb.com/chart/moviemeter"),
-    axios.get("https://www.other-site.com")
-  ])
+  .all([axios.get("http://www.imdb.com/chart/moviemeter")])
   .then(
     axios.spread((imdbResponse, reposResponse) => {
       IMDbController.catch(imdbResponse.data);
     })
   )
-  .catch(error => {
+  .catch((error) => {
     if (error.response) {
       console.log(error.response.data);
       console.log(error.response.status);
