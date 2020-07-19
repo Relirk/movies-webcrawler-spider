@@ -4,7 +4,7 @@
 
 ### 
 
-![Screenshot 1](netflix.png)
+![Screenshot 1](.assets/imdb-site.png)
 
 ### Tools used:
 - [NodeJS](https://nodejs.org/en/)
